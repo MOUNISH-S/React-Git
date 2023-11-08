@@ -1,0 +1,34 @@
+.my
+{
+     display:flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     height: 40vh;
+     width: 25vw;
+     border-radius: 10px;
+     border:2px solid black;
+     padding: 2rem;
+     background-color: beige;
+           /*background-image:url("C:\Users\Mouni\Pictures\Screenshots\neo4.jpg");*/
+}
+body{
+      height: 100vh;
+      width:100vw;
+   background-color:rgb(104, 71, 110);
+   display:flex;
+   justify-content: center;
+   align-items: center;
+    /*background-image: url("https://cdn.pixabay.com/photo/2018/06/16/16/17/road-3478977_1280.jpg");*/
+}   
+.m{
+      padding: 2%;
+      border-radius: 5px;
+      width: 20vw;
+}
+ .mine{
+      background-color:green;
+      width: 20vw;
+      padding:2%;
+} 
+
